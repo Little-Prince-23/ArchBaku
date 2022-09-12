@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ArchBaku/static/css/main.6607454a.css",
+    "main.js": "/ArchBaku/static/js/main.c902eefe.js",
+    "static/media/banner.jpeg": "/ArchBaku/static/media/banner.750094233aef593d10e1.jpeg",
+    "static/media/team-6.png": "/ArchBaku/static/media/team-6.6d011ad54a213f7065af.png",
+    "static/media/team-5.png": "/ArchBaku/static/media/team-5.8f9e85b882c6fe8bacf6.png",
+    "static/media/tech-2.png": "/ArchBaku/static/media/tech-2.151cc018aaa34d02bad9.png",
+    "static/media/tech-4.png": "/ArchBaku/static/media/tech-4.3f61453b7d8e369406fe.png",
+    "static/media/tech-3.png": "/ArchBaku/static/media/tech-3.1d77e01606545c40223f.png",
+    "static/media/team-2.jpeg": "/ArchBaku/static/media/team-2.304af35e29f9966024f0.jpeg",
+    "static/media/tech-1.png": "/ArchBaku/static/media/tech-1.b0c2d32cc2a73629da42.png",
+    "static/media/news-4.jpeg": "/ArchBaku/static/media/news-4.ebc737e554708555e1d3.jpeg",
+    "static/media/news-1.jpeg": "/ArchBaku/static/media/news-1.268f05f1e55f23b35d2c.jpeg",
+    "static/media/news-2.jpeg": "/ArchBaku/static/media/news-2.2867fd9524a16409f702.jpeg",
+    "static/media/team-1.jpeg": "/ArchBaku/static/media/team-1.0729877a192ce85ef34c.jpeg",
+    "static/media/team-4.jpeg": "/ArchBaku/static/media/team-4.5d49619346cf4a55d762.jpeg",
+    "static/media/news-3.jpeg": "/ArchBaku/static/media/news-3.3f837cc8a7359d698c12.jpeg",
+    "static/media/team-3.jpeg": "/ArchBaku/static/media/team-3.c54f7232baed04dded05.jpeg",
+    "static/media/footer-logo.png": "/ArchBaku/static/media/footer-logo.3aaf50fbfa77f15c0357.png",
+    "index.html": "/ArchBaku/index.html",
+    "main.6607454a.css.map": "/ArchBaku/static/css/main.6607454a.css.map",
+    "main.c902eefe.js.map": "/ArchBaku/static/js/main.c902eefe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6607454a.css",
+    "static/js/main.c902eefe.js"
+  ]
+}
